@@ -1,0 +1,62 @@
+h1 {
+    color: rgb(194, 157, 109);
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+ul>li {
+    border: 3px outset;
+    display: inline-block;
+}
+
+img {
+    display: block;
+    width: 50%;
+}
+
+#first {
+    margin: auto;
+}
+
+#second {
+    margin: auto;
+}
+
+#third {
+    margin: auto;
+}
+
+#fourth {
+    margin: auto;
+}
+
+.fact1 {
+    text-align: center;
+}
+
+.fact2 {
+    text-align: center;
+}
+
+.fact3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+a.href {
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+}
